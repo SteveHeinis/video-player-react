@@ -14,7 +14,7 @@ class App extends Component {
               <Player
                 playsInline
                 poster="/assets/poster.png"
-                src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
+                src="https://s3-eu-west-1.amazonaws.com/onrewind-test-bucket/big_buck_bunny.mp4"
               />
             </div>
           </div>
